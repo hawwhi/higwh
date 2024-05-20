@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @higwh
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @hawwhi
